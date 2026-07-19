@@ -1,0 +1,4 @@
+interface:
+  display_name: "明辰浏览器验真"
+  short_description: "通过真实浏览器操作、截图和快照获得可复现的验证证据"
+  default_prompt: "使用 $mingchen-proof 验证这个网页流程，并给出可复现的证据。"
